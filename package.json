@@ -1,0 +1,22 @@
+{
+  "name": "clear-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HrDelwar/clear-concept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HrDelwar/clear-concept/issues"
+  },
+  "homepage": "https://github.com/HrDelwar/clear-concept#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
